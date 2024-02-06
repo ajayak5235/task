@@ -10,7 +10,7 @@ CSS Styling: The styling is defined in an external CSS file (style.css)
 Fonts: It imports the Inter font family from Google 
 This project appears to be an HTML webpage designed to showcase a furniture product, specifically the "Embrace Sideboard" by Marmeto. The webpage includes various sections and elements:
 
-HTML Structure: The document is structured using HTML5 elements such as <head>, <body>, <section>, <div>, <figure>, <img>, <p>, <h2>, <h3>, <h4>, <form>, <input>, <label>, <button>, and <script>.
+HTML Structure: The document is structured using HTML5 elements.
 
 CSS Styling: The styling is defined in an external CSS file (style.css), which presumably controls the layout, colors, fonts, and overall appearance of the webpage.
 
